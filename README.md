@@ -46,13 +46,14 @@ This project goes beyond prediction by providing a comparative analysis of multi
 
 ---
 
-## 🖼️ Dashboard Screenshots
 
-> Add your screenshots here
 
 ### 📌 Main Dashboard
 
-![Dashboard](./screenshots/dashboard1.png)
+![Dashboard](result1.png) 
+![Dashboard](result2.png)
+
+
 
 
 
